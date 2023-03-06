@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codrosu
-- 👀 I’m interested in backend developing
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in manual testing
+- 🌱 I’m currently learning QA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
