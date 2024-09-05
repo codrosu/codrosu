@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codrosu
-- 👀 I’m interested in manual testing
-- 🌱 I’m currently learning QA
+- 👀 I’m interested in web developing
+- 🌱 I’m currently learning WEB Developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
